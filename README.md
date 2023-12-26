@@ -96,3 +96,25 @@ From this point you can also change your Proton version.
 * [gamemode](https://github.com/FeralInteractive/gamemode) - System optimizer. Highly recommended.
 * [mangohud](https://github.com/flightlessmango/MangoHud) - Game usage and FPS monitor.
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool which runs games using native Linux libralies.
+
+##### Gamemode Usage
+
+Mentioned in previous section, gamemode is a great way to improve your performance in games.
+
+* *Verify if the configuration files are working*
+```$ gamemoded -t```
+
+* *Run a single game*
+```$ gamemoderun ./GAME```
+
+* *Run with a single Steam game*
+Add to launch parameters of your game the following:
+```gamemoderun %command%```
+
+###### With Mangohud
+
+* *Run a single game*
+```$ mangohud gamemoderun [GAME]```
+
+* *Run a single Steam game*
+```mangohud gamemoderun %command%```
