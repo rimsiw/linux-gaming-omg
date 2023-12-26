@@ -102,14 +102,20 @@ From this point you can also change your Proton version.
 Mentioned in previous section, gamemode is a great way to improve your performance in games.
 
 * *Verify if the configuration files are working*
-```$ gamemoded -t```
+```
+$ gamemoded -t
+```
 
 * *Run a single game*
-```$ gamemoderun ./GAME```
+```
+$ gamemoderun ./GAME
+```
 
 * *Run with a single Steam game*
 Add to launch parameters of your game the following:
-```gamemoderun %command%```
+```
+gamemoderun %command%
+```
 
 ###### With Mangohud
 
@@ -119,4 +125,6 @@ $ mangohud gamemoderun [GAME]
 ```
 
 * *Run a single Steam game*
-```mangohud gamemoderun %command%```
+```
+mangohud gamemoderun %command%
+```
