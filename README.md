@@ -9,7 +9,9 @@ It is a list of tools for linux gaming, as well as a guide for setting up your b
 ### Explaining Terms
 
 _**Linux**_ - Shortened term for GNU/Linux, sorry Stallman
+
 _**Kernel**_ - Core of an operating system
+
 _**Distro**_ - Distribution of linux, commonly reffered as distro.
 
 ### What Distribution should I pick for linux gaming?
