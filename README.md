@@ -114,7 +114,9 @@ Add to launch parameters of your game the following:
 ###### With Mangohud
 
 * *Run a single game*
-```$ mangohud gamemoderun [GAME]```
+```
+$ mangohud gamemoderun [GAME]
+```
 
 * *Run a single Steam game*
 ```mangohud gamemoderun %command%```
