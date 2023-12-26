@@ -68,3 +68,5 @@ If you use Steam (and you probably do), after installing it on your OS, Proton w
 #### How to enable Proton for Steam games?
 
 Go to Steam Settings, click on "Compatibility" tab, and check the box stating "Enable SteamPlay for all other titles". Here you can change your version of Proton as well.
+
+![Step 1](/resources/2023-12-26_22-09.png)
