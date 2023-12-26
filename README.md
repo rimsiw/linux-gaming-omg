@@ -72,3 +72,27 @@ Go to Steam Settings, click on "Compatibility" tab, and check the box stating "E
 ![Step 1](/resources/2023-12-26_22-09.png)
 ![Step 2](/resources/2023-12-26_22-09_1.png)
 ![Step 3](/resources/2023-12-26_22-10.png)
+
+From this point you can also change your Proton version.
+
+#### Proton related tools.
+
+* [ProtonDB](https://www.protondb.com/) - Your go-to for checking compatibility of Steam games with Linux.
+* [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt/) - GUI for installing and managing custom Proton and Wine versions.
+* [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) - Custom Proton with additional features.
+
+### Vulkan & DirectX
+
+#### Vulkan and DirectX tools
+
+* [wine-wayland](https://github.com/varmd/wine-wayland) - Allows running Vulkan and DirectX games with pure wine.
+* [dxvk](https://github.com/doitsujin/dxvk) - Allows DirectX games to use 3D.
+* [vkbasalt](https://github.com/DadSchoorse/vkBasalt) - Post-processing layer for Vulkan games.
+
+### Optimazation and Performance
+
+#### Tools
+
+* [gamemode](https://github.com/FeralInteractive/gamemode) - System optimizer. Highly recommended.
+* [mangohud](https://github.com/flightlessmango/MangoHud) - Game usage and FPS monitor.
+* [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool which runs games using native Linux libralies.
