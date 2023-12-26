@@ -112,6 +112,7 @@ $ gamemoderun ./GAME
 ```
 
 * *Run with a single Steam game*
+
 Add to launch parameters of your game the following:
 ```
 gamemoderun %command%
