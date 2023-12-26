@@ -41,7 +41,7 @@ Commonly known as the best linux distributions for beginners, Debian-based distr
 #### Other linux distributions.
 
 * [Gentoo](https://www.gentoo.org/) - For advanced users. Flexible and source-based distro.
-* [Fentoo](https://www.funtoo.org/Welcome) - For advanced users. Evolution of Gentoo. Optimized for the best performance.
+* [Funtoo](https://www.funtoo.org/Welcome) - For advanced users. Evolution of Gentoo. Optimized for the best performance.
 * [NixOS](https://nixos.org/) - For advanced users. Linux distribution based on Nix Package Manager
 * [OpenSUSE](https://www.opensuse.org/) - Fast and stabilized rolling-release distribution.
 
