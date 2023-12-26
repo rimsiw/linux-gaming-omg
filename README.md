@@ -96,6 +96,7 @@ From this point you can also change your Proton version.
 * [gamemode](https://github.com/FeralInteractive/gamemode) - System optimizer. Highly recommended.
 * [mangohud](https://github.com/flightlessmango/MangoHud) - Game usage and FPS monitor.
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool which runs games using native Linux libralies.
+* [GOverlay](https://github.com/benjamimgois/goverlay) - Easy to use GUI for configuring MangoHUD
 
 ##### Gamemode Usage
 
@@ -118,7 +119,7 @@ Add to launch parameters of your game the following:
 gamemoderun %command%
 ```
 
-###### With Mangohud
+###### With MangoHUD
 
 * *Run a single game*
 ```
