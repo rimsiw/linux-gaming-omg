@@ -140,3 +140,8 @@ mangohud gamemoderun %command%
 * [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Easy to use GUI which may be used to to configure GameScope, MangoHUD, Vortex Mod Manager and more.
 * [steam-cli](https://github.com/berenm/steam-cli) - Command Line Interface for Steam.
     * [steam-tui](https://github.com/dmadisetti/steam-tui) - Terminal User Interface for Steam, based on ``steam-cli``
+
+#### GOG and Epic Games tools
+
+* [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - Simple GOG client for Linux
+* [HeroicGamesLauncher](https://heroicgameslauncher.com/) - Epic Games, GOG and Amazon Prime Gaming client
