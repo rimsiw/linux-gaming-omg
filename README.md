@@ -132,3 +132,11 @@ $ mangohud gamemoderun [GAME]
 ```
 mangohud gamemoderun %command%
 ```
+
+### Other Tools
+
+#### Steam-Related tools
+
+* [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Easy to use GUI which may be used to to configure GameScope, MangoHUD, Vortex Mod Manager and more.
+* [steam-cli](https://github.com/berenm/steam-cli) - Command Line Interface for Steam.
+    * [steam-tui](https://github.com/dmadisetti/steam-tui) - Terminal User Interface for Steam, based on ``steam-cli``
