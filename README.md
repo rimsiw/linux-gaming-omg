@@ -145,3 +145,9 @@ mangohud gamemoderun %command%
 
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - Simple GOG client for Linux
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) - Epic Games, GOG and Amazon Prime Gaming client
+
+#### Game Management
+* [Lutris](https://lutris.net/) - Direct access to games from Humble, Steam and more, as well as game manager for all your Linux games.
+* [GameHub](https://tkashkin.github.io/projects/gamehub/) - Unified library for your games.
+* [Playnite](https://playnite.link/) - Library manager
+    * [Playnite Plugins](https://playnite.link/addons.html)
