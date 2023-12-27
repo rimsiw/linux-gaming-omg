@@ -83,6 +83,7 @@ From this point you can also change your Proton version.
 * [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt/) - GUI for installing and managing custom Proton and Wine versions.
 * [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) - Custom Proton with additional features.
 * [WineTricks](https://github.com/Winetricks/winetricks) - Easy way to work around problems in WINE.
+* [Wine-GE](https://github.com/gloriouseggroll/wine-ge-custom) - Custom WINE package, similar to Proton-GE, but made to be used with [Lutris](#game-management).
 
 ### Vulkan & DirectX
 
