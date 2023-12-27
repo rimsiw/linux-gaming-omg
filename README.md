@@ -77,11 +77,12 @@ Go to Steam Settings, click on "Compatibility" tab, and check the box stating "E
 
 From this point you can also change your Proton version.
 
-#### Proton related tools.
+#### Proton and Wine related tools.
 
 * [ProtonDB](https://www.protondb.com/) - Your go-to for checking compatibility of Steam games with Linux.
 * [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt/) - GUI for installing and managing custom Proton and Wine versions.
 * [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) - Custom Proton with additional features.
+* [WineTricks](https://github.com/Winetricks/winetricks) - Easy way to work around problems in WINE.
 
 ### Vulkan & DirectX
 
