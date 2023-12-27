@@ -160,3 +160,23 @@ While overclocking may come with better performance, I do not recommend it unles
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) - Unified library for your games.
 * [Playnite](https://playnite.link/) - Library manager
     * [Playnite Plugins](https://playnite.link/addons.html)
+
+#### Other libraries and games
+
+##### Minecraft Tools
+
+* [Official Minecraft Launcher on AUR](https://aur.archlinux.org/packages/minecraft-launcher) - Package on Arch User Repository
+* [PrismLauncher](https://prismlauncher.org/) - Minecraft launcher with easy mod managing support
+
+###### Mods
+
+* [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Microsoft telemetry
+* [Sodium](https://modrinth.com/mod/sodium) - Optimization tool for Fabric
+
+###### Installing on Arch
+
+* *In order to install Official Minecraft launcher, you will need to install it thru command line using your favorite AUR helper, in this example I'll use [aura](https://github.com/fosskers/aura)*
+
+```
+$ sudo aura -A minecraft-launcher
+```
