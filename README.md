@@ -133,6 +133,15 @@ $ mangohud gamemoderun [GAME]
 mangohud gamemoderun %command%
 ```
 
+#### Overclocking
+
+While overclocking may come with better performance, I do not recommend it unless you know what you are doing!
+
+##### Overclocking Tools
+
+* [NVBurner](https://github.com/iloveichigo/NVBurner) - Overclocking tool for Nvidia graphic cards.
+* [CoreCTRL](https://gitlab.com/corectrl/corectrl) - Overclocking tool utilizing profiles
+
 ### Other Tools
 
 #### Steam-Related tools
