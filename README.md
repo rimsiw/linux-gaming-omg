@@ -189,3 +189,6 @@ HoYoverse games are the popular Gacha games created by developer HoYoverse forme
 * [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Unofficial launcher for Genshin Impact
 * [The Honkers Railway Launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) - Honkai: Star Rail unofficial launcher
 * [Honkers Launcher](https://github.com/an-anime-team/honkers-launcher) - Honkai Impact 3rd unofficial launcher
+
+##### osu!
+To install osu! on Linux, follow this [guide](https://gist.github.com/tsunyoku/354fa74945d9477b583b2e645c7d88b2)
