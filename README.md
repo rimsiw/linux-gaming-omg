@@ -182,3 +182,10 @@ While overclocking may come with better performance, I do not recommend it unles
 ```
 $ sudo aura -A minecraft-launcher
 ```
+
+##### HoYoverse games
+HoYoverse games are the popular Gacha games created by developer HoYoverse formerly known as MiHoYo.
+
+* [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Unofficial launcher for Genshin Impact
+* [The Honkers Railway Launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) - Honkai: Star Rail unofficial launcher
+* [Honkers Launcher](https://github.com/an-anime-team/honkers-launcher) - Honkai Impact 3rd unofficial launcher
