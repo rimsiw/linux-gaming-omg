@@ -146,7 +146,8 @@ mangohud gamemoderun %command%
 
 ### Overclocking
 
-> [!WARNING]
+### ⚠ **Warning**
+
 > While overclocking has the potential to enhance system performance, it is strongly advised against unless you have a thorough understanding of the process. Proceeding with overclocking without adequate knowledge may lead to instability, overheating, and permanent damage to your hardware components. Exercise caution and ensure you are well-versed in the intricacies of overclocking before attempting any adjustments. If in doubt, seek guidance from experienced individuals to avoid unintended consequences and potential risks to your system.
 
 #### Overclocking Tools
