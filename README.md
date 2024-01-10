@@ -176,11 +176,17 @@ mangohud gamemoderun %command%
 - [Playnite](https://playnite.link/) - Game library manager
   - [Playnite Addons](https://playnite.link/addons.html)
 
+### Game-Specific Tools
+
 #### Minecraft Tools
 
 - [Minecraft Launcher](https://www.minecraft.net/en-us/download/alternative) - Official vanilla Minecraft Launcher
 - [Modrinth App](https://modrinth.com/app) - Highly recommended
 - [Prism Launcher](https://prismlauncher.org/) - Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
+
+#### Roblox
+
+- [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox and Roblox Studio manager
 
 #### osu!
 
