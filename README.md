@@ -182,14 +182,6 @@ mangohud gamemoderun %command%
 - [Modrinth App](https://modrinth.com/app) - Highly recommended
 - [Prism Launcher](https://prismlauncher.org/) - Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
 
-#### HoYoverse games
-
-HoYoverse games are the popular Gacha games created by developer HoYoverse, formerly known as MiHoYo.
-
-- [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Unofficial launcher
-
-Other launchers can be found in their GitHub organization but have not been linked to [respect their wishes](an-anime-game-request.png).
-
 #### osu!
 
 - [osu!lazer](https://github.com/ppy/osu) - Natively runs on Linux
