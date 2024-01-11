@@ -38,7 +38,7 @@ Commonly known as the best linux distributions for beginners, Debian-based distr
 ### [Fedora](https://fedoraproject.org/) based
 
 - [Fedora](https://fedoraproject.org/)
-- [Nobara](https://nobaraproject.org/) - "Gaming" distro, same creator as Proton GE
+- [Nobara](https://nobaraproject.org/) - "Gaming" distro, same creator as Proton-GE
 
 ### Other/Advanced Distros
 
