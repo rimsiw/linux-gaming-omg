@@ -1,12 +1,15 @@
 # Linux Gaming
 
 ## Glossary
+<details>
 
 **Linux** - used as a short version of GNU/Linux. Linux is a kernel, and when combined with the GNU operating system, it forms the GNU/Linux operating system.
 
 **Kernel** - The core of an operating system.
 
 **Distro** - short for a linux distribution.
+
+</details>
 
 ## What distro should I use for Linux gaming?
 
