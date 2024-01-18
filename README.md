@@ -176,8 +176,6 @@ mangohud gamemoderun %command%
 
 - [Lutris](https://lutris.net/) - Direct access to games from Humble, Steam, and more, as well as a game manager for all your Linux games.
 - [GameHub](https://tkashkin.github.io/projects/gamehub/) - Unified library for all your games
-- [Playnite](https://playnite.link/) - Game library manager
-  - [Playnite Addons](https://playnite.link/addons.html)
 
 ### Game-Specific Tools
 
