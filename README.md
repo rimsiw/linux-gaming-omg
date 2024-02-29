@@ -188,6 +188,7 @@ mangohud gamemoderun %command%
 #### Roblox
 
 - [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox and Roblox Studio manager
+- [Vinegar](https://vinegarhq.org/) - Bootstrapper for Roblox
 
 #### osu!
 
