@@ -98,9 +98,9 @@ You can also switch your Proton version in this tab.
 
 ### Vulkan and DirectX Tools
 
-- [wine-wayland](https://github.com/varmd/wine-wayland) - Allows playing Vulkan and DirectX 9/11 games with pure [Wayland](https://wayland.freedesktop.org/) and WINE.
-- [dxvk](https://github.com/doitsujin/dxvk) - A Vulkan-based translation layer for Direct3D 9/10/11 that allows running 3D applications using Wine.
-- [vkbasalt](https://github.com/DadSchoorse/vkBasalt) - Post-processing layer for Vulkan applications.
+- [WINE-Wayland](https://github.com/varmd/wine-wayland) - Allows playing Vulkan and DirectX 9/11 games with pure [Wayland](https://wayland.freedesktop.org/) and WINE.
+- [DXVK](https://github.com/doitsujin/dxvk) - A Vulkan-based translation layer for Direct3D 9/10/11 that allows running 3D applications using Wine.
+- [VkBasalt](https://github.com/DadSchoorse/vkBasalt) - Post-processing layer for Vulkan applications.
 
 ### Optimazation and Performance Tools
 
