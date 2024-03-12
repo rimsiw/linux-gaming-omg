@@ -58,8 +58,9 @@ Games made for Linux or designed to work on Linux usually run smoothly on the pl
 
 The standard Linux kernel should sufice; however, if maximum performance is important to you, here are some recommended kernels:
 
-- [linux-zen](https://github.com/zen-kernel/zen-kernel) - Most commonly used out of this list
-- [XanMod](https://xanmod.org/) - Use the real-time version
+- [linux-zen](https://github.com/zen-kernel/zen-kernel) - Most commonly used out of this bunch
+- [XanMod](https://xanmod.org/)
+> :information_source: - Use real-time version
 - [Liquroix](https://liquorix.net/)
 - [Clear Linux](https://github.com/clearlinux-pkgs/linux) - Backed by and optimized for Intel ([not being discontinued](https://community.clearlinux.org/t/is-clearlinux-being-discontinued-no/8828), contrary to rumors)
 
@@ -67,7 +68,7 @@ The standard Linux kernel should sufice; however, if maximum performance is impo
 
 #### Installation
 
-If you have already installed Steam, then you already have Proton, as it is also installed.
+If you have already installed Steam, then you already have Proton, as it is also installed by default.
 
 #### Enabling Proton
 
