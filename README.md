@@ -2,6 +2,7 @@
 
 ## Glossary
 <details>
+<summary>Click to reveal</summary>
 
 **Linux** - used as a short version of GNU/Linux. Linux is a kernel, and when combined with the GNU operating system, it forms the GNU/Linux operating system.
 
@@ -190,3 +191,7 @@ Add the following command to the game's launch options:
 
 - [osu!lazer](https://github.com/ppy/osu) - Official osu! version with support for Linux
 - [osu!stable](https://github.com/NelloKudo/osu-winello) - Automatic installation script using WINE
+
+## :3
+
+If you found this guide useful, please consider starring the project on GitHub! It helps a lot!
