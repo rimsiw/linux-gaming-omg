@@ -98,15 +98,15 @@ You can also switch your Proton version in this tab.
 
 ### Vulkan and DirectX Tools
 
-- [WINE-Wayland](https://github.com/varmd/wine-wayland) - Allows playing Vulkan and DirectX 9/11 games with pure [Wayland](https://wayland.freedesktop.org/) and WINE.
+- [wine-wayland](https://github.com/varmd/wine-wayland) - Allows playing Vulkan and DirectX 9/11 games with pure [Wayland](https://wayland.freedesktop.org/) and WINE.
 - [DXVK](https://github.com/doitsujin/dxvk) - A Vulkan-based translation layer for Direct3D 9/10/11 that allows running 3D applications using Wine.
-- [VkBasalt](https://github.com/DadSchoorse/vkBasalt) - Post-processing layer for Vulkan applications.
+- [vkBasalt](https://github.com/DadSchoorse/vkBasalt) - Post-processing layer for Vulkan applications.
 
 ### Optimazation and Performance Tools
 
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Prioritize game over other tasks, similar to Windows counterpart.
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - An overlay for monitoring FPS, temperatures, CPU/GPU load and more.
-  - [GOverlay](https://github.com/benjamimgois/goverlay) - Easy to use GUI for configuring MangoHUD.
+  - [GOverlay](https://github.com/benjamimgois/goverlay) - Easy to use GUI for configuring MangoHud.
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux libraries.
 
 ### Running GameMode
@@ -129,7 +129,7 @@ Add the following command to the game's launch options:
 
 ``gamemoderun %command%``
 
-### Running GameMode With MangoHUD
+### Running GameMode With MangoHud
 
 #### Running a game
 
