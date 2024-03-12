@@ -104,14 +104,14 @@ You can also switch your Proton version in this tab.
 
 ### Optimazation and Performance Tools
 
-- [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
+- [GameMode](https://github.com/FeralInteractive/gamemode) - Prioritize game over other tasks, similar to Windows counterpart.
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - An overlay for monitoring FPS, temperatures, CPU/GPU load and more.
-  - [GOverlay](https://github.com/benjamimgois/goverlay) - Easy to use GUI for configuring MangoHUD
-- [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
+  - [GOverlay](https://github.com/benjamimgois/goverlay) - Easy to use GUI for configuring MangoHUD.
+- [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux libraries.
 
 ### Running GameMode
 
-#### Verify GameMode is installed and will run correctly
+#### Verify whether GameMode is installed and will run correctly
 
 ```
 $ gamemoded -t
@@ -125,11 +125,9 @@ $ gamemoderun <game-binary>
 
 #### Running a Steam game
 
-Add the following command to the game's launch options
+Add the following command to the game's launch options:
 
-```
-gamemoderun %command%
-```
+``gamemoderun %command%``
 
 ### Running GameMode With MangoHUD
 
@@ -141,11 +139,9 @@ $ mangohud gamemoderun <game-binary>
 
 #### Running a Steam game
 
-Add the following command to the game's launch options
+Add the following command to the game's launch options:
 
-```
-mangohud gamemoderun %command%
-```
+``mangohud gamemoderun %command%``
 
 ### Overclocking
 
@@ -162,9 +158,9 @@ mangohud gamemoderun %command%
 
 #### Steam-Related tools
 
-- [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
+- [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Wrapper for installing various tools, managing game launch options etc.
 - [steam-cli](https://github.com/berenm/steam-cli) - Command Line Interface for Steam.
-  - [steam-tui](https://github.com/dmadisetti/steam-tui) - Terminal User Interface for [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD#Linux)
+  - [steam-tui](https://github.com/dmadisetti/steam-tui) - Terminal User Interface for [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD#Linux).
 
 #### GOG and Epic Games tools
 
@@ -182,8 +178,8 @@ mangohud gamemoderun %command%
 #### Minecraft Tools
 
 - [Minecraft Launcher](https://www.minecraft.net/en-us/download/alternative) - Official vanilla Minecraft Launcher
-- [Modrinth App](https://modrinth.com/app) - Highly recommended
-- [Prism Launcher](https://prismlauncher.org/) - Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
+- [Modrinth App](https://modrinth.com/app) - Interface and launcher for mods and modpacks from Modrinth
+- [Prism Launcher](https://prismlauncher.org/) - Open Source Minecraft Launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
 
 #### Roblox
 
@@ -192,5 +188,5 @@ mangohud gamemoderun %command%
 
 #### osu!
 
-- [osu!lazer](https://github.com/ppy/osu) - Natively runs on Linux
+- [osu!lazer](https://github.com/ppy/osu) - Official osu! version with support for Linux
 - [osu!stable](https://github.com/NelloKudo/osu-winello) - Automatic installation script using WINE
