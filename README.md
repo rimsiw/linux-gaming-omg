@@ -146,7 +146,7 @@ Add the following command to the game's launch options:
 
 ### Overclocking
 
-### ⚠ **Warning**
+#### ⚠ **Warning**
 
 > While overclocking has the potential to enhance system performance, it is strongly advised against unless you have a thorough understanding of the process. Proceeding with overclocking without adequate knowledge may lead to instability, overheating, and permanent damage to your hardware components. Exercise caution and ensure you are well-versed in the intricacies of overclocking before attempting any adjustments. If in doubt, seek guidance from experienced individuals to avoid unintended consequences and potential risks to your system.
 
@@ -154,6 +154,15 @@ Add the following command to the game's launch options:
 
 - [NVBurner](https://github.com/iloveichigo/NVBurner) - A MSI Afterburner alternative for NVIDIA users on Linux.
 - [CoreCtrl](https://gitlab.com/corectrl/corectrl) - Profile based overclocking utility
+
+## Game Streaming
+
+Game streaming means playing games on a different device that you are using to control or display the game. This can be done by either streaming from e.g your computer at home to a different device, or streaming a game from centralized server.
+
+### Note :information_source:
+> Please note that while game streaming does not require greatest machine, it often requires decent internet connection, if you cannot provide it, you may encounter issues.
+
+> Also: Please note that if streaming games from centralized server, you might have to pay a subscription fee or wait in long queues until you will be able to play.
 
 ## Other Tools
 
