@@ -193,6 +193,9 @@ Game streaming means playing games on a different device that you are using to c
 
 #### Roblox
 
+> :warning: **Warning**
+> Due to recent anti-cheat changes in Roblox, wrappers or bootstrappers might not work and can get your account banned, if you manage to somehow use them
+
 - [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox and Roblox Studio manager
 - [Vinegar](https://vinegarhq.org/) - Bootstrapper for Roblox
 
