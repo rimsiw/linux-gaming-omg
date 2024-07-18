@@ -10,6 +10,7 @@
 
 **Distro** - short for a linux distribution.
 
+**Compatibility Layer** - a tool/utility which translates normally not executable code on a machine into one beibg executable, do not confuse with an emulator
 </details>
 
 ## What distro should I use for Linux gaming?
